@@ -5,6 +5,10 @@
   "repository": "https://github.com/nayeon0206/jest.git",
   "author": "강나연 <skdusdl4@naver.com>",
   "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
   "devDependencies": {
     "jest": "^29.7.0"
   }
