@@ -1,0 +1,11 @@
+{
+  "name": "jest2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nayeon0206/jest.git",
+  "author": "강나연 <skdusdl4@naver.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
